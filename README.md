@@ -1,2 +1,2 @@
 # example-project
-addining note
+addiing note
